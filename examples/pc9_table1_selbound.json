@@ -1,0 +1,62 @@
+{
+ "3_rep1": {
+  "identity": 40.94863698566489,
+  "translation": 5.601786516290254,
+  "budget_proxy": 5.88,
+  "budget_upper": 17.3
+ },
+ "3_rep2": {
+  "identity": 117.69690082967573,
+  "translation": 7.488235151881243,
+  "budget_proxy": 5.88,
+  "budget_upper": 17.3
+ },
+ "7_rep1": {
+  "identity": 67.99648327629687,
+  "translation": 9.663656975140432,
+  "budget_proxy": 36.41,
+  "budget_upper": 204.04
+ },
+ "7_rep2": {
+  "identity": 92.61416373935096,
+  "translation": 8.040465135653381,
+  "budget_proxy": 36.41,
+  "budget_upper": 204.04
+ },
+ "14_rep1_low": {
+  "identity": 108.22156204680358,
+  "translation": 26.072724582761833,
+  "budget_proxy": 108.04,
+  "budget_upper": 1838.99
+ },
+ "14_rep2_low": {
+  "identity": 89.93193542246043,
+  "translation": 22.11214183740615,
+  "budget_proxy": 108.04,
+  "budget_upper": 1838.99
+ },
+ "14_rep1_med": {
+  "identity": 101.7985803970755,
+  "translation": 20.441976250647723,
+  "budget_proxy": 108.04,
+  "budget_upper": 1838.99
+ },
+ "14_rep2_med": {
+  "identity": 97.77787009378025,
+  "translation": 21.354363082825426,
+  "budget_proxy": 108.04,
+  "budget_upper": 1838.99
+ },
+ "14_rep1_high": {
+  "identity": 115.4845357556493,
+  "translation": 31.251974324953192,
+  "budget_proxy": 108.04,
+  "budget_upper": 1838.99
+ },
+ "14_rep2_high": {
+  "identity": 115.51107112033633,
+  "translation": 30.500541427230512,
+  "budget_proxy": 108.04,
+  "budget_upper": 1838.99
+ }
+}

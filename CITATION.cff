@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use selbound, please cite the accompanying paper."
+title: "selbound: response-adjusted selection bounds for single-cell perturbation data"
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Alvarez
+    given-names: Illych
+    affiliation: "Escuela Superior Politécnica del Litoral (ESPOL)"
+    email: ialvarez@espol.edu.ec
+repository-code: "https://github.com/illychd7/selbound"
